@@ -19,18 +19,18 @@ Desarrollo de algoritmo de clasificación de casos de acoso sexual con base en d
 
 ### Oportunidad de mercado:
 
-**Introducción**
+* **Introducción**
 A pesar de que actualmente existen normativas para combatir el acoso sexual tanto nacional como internacionalmente; en México, la mayoría de las escuelas no se han trabajado en la elaboración de un plan de identificación y normativa específica orientada a la prevención, atención y sanción de este tipo de conductas, por lo que ante la falta de conocimiento y la regulación concreta, son las victimas las que sufren por dichas carencias.
 
-**Tamaño de mercado**
+* **Tamaño de mercado**
 Instituciones educativas públicas y privadas de nivel medio superior, superior y posgrado; al igual que el público femenino en general.​
 
-**Cliente objetivo**
+* **Cliente objetivo**
 Directivos y/o autoridades de las Instituciones Educativas
 
-**Demanda¨**
+* **Demanda**
 
-**Necesidad**
+* **Necesidad**
 Los casos de acosos sexual escolar (y en general) han incrementado en los últimos años. Sin embargo, estos delitos suelen quedar impunes por las autoridades de la institución por falta de identificación.
 
 ## Autoras ✒️
