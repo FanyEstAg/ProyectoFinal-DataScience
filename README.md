@@ -2,9 +2,9 @@
 # **Clasificando el acoso sexual hacia la mujer**
 
 ## Descripción 🔖
-Proyecto final del Team 12 correspondiente al programa _Data Science BEDU - Santander_ módulo 3 de Procesamiento de Datos con Python
+Proyecto final del Team 12 correspondiente al programa _Data Science BEDU - Santander_ 
 
-En el presente respositorio se encuentran los archivos correspondientes al proyecto final de _Data Science_ el cuál será presentado en el _Prototype Day_.
+En el presente respositorio se encuentran los archivos correspondientes al proyecto final de _Data Science_ el cuál será presentado a un jurado en el _Prototype Day_.
 Dicho proyecto implementa los conocimiento adquiridos en el _Módulo 5: Machine Learning_ impartido por el Team BEDU:
  * Experto: Jaffet León Chavez
  * Teaching Assistant: Uriel Rodríguez y Dalai Aguirre
