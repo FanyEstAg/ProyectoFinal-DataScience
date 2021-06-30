@@ -31,7 +31,7 @@ Directivos y/o autoridades de las Instituciones Educativas
 * **Demanda**
 
 * **Necesidad**
-Los casos de acosos sexual escolar (y en general) han incrementado en los últimos años. Sin embargo, estos delitos suelen quedar impunes por las autoridades de la institución por falta de identificación.
+Los casos de acosos sexual escolar (y en general) han incrementado en los últimos años. Sin embargo, estos delitos suelen quedar impunes por las autoridades de la institución por falta de, en primer lugar, de una correcta identificación. Dado esto, nace la necesidad de realizar un registro con información relevante del caso y con una clasificación rápida y precisa, que permita que los regsitros de los casos sean procesados, revisados y solucionados lo más pronto posible.
 
 ## Autoras ✒️
 
